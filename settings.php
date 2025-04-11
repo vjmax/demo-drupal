@@ -1,1 +1,1 @@
-"<?php // Production settings" 
+"<?php // Development settings" 
